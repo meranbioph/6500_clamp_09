@@ -1,5 +1,8 @@
 Case clamp_08 is a re-hash of clamp_08, with a coarser mesh and with adjustTimeStep on.
 
+OpenFoam version: 9
+Solver: clampPimpleFoam v3
+
 MESH
 - The base mesh was built with the crude R program previously built.
 - The cover region was expanded to 0.15m.
