@@ -1,6 +1,7 @@
 Case clamp_08 is a re-hash of clamp_08, with a coarser mesh and with adjustTimeStep on.
 
 OpenFoam version: 9
+
 Solver: clampPimpleFoam v3
 
 MESH
