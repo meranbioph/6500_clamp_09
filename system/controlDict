@@ -18,7 +18,7 @@ application     clampPimpleFoam;
 
 startFrom       startTime;
 
-startTime       2;
+startTime       1;
 
 stopAt          endTime;
 

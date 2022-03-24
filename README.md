@@ -1,9 +1,9 @@
-Case clamp_08 is a re-hash of clamp_08, with a coarser mesh and with adjustTimeStep on.
+Case clamp_09 is a re-hash of clamp_08, with a coarser mesh and with adjustTimeStep on.
 
 MESH
 - The base mesh was built with the crude R program previously built.
 - The cover region was expanded to 0.15m.
-  - This means the cover D and F numbers need to be recalculated (1.1/150*D and 1.1/150*F)
+  - This means the cover D and F numbers need to be recalculated (1.1 / 150 * D and 1.1 / 150 * F)
 - The outer domain was reduced in height by 2 meters.
 Note that to get the merge patches to work, their order had to be changed from clamp_08.
 
